@@ -1,3 +1,9 @@
+.. SVENKUNKKA-README-NAV:BEGIN
+
+`中文项目说明 <sven-project-zh_>`_ · `English overview <sven-project-en_>`_ · `维护者 X / Maintainer on X <https://x.com/Svenu1s5>`_
+
+.. SVENKUNKKA-README-NAV:END
+
 ###################
 What is CodeIgniter
 ###################
@@ -68,3 +74,36 @@ Acknowledgement
 
 The CodeIgniter team would like to thank EllisLab, all the
 contributors to the CodeIgniter project and you, the CodeIgniter user.
+
+
+.. SVENKUNKKA-PROJECT-INFO:BEGIN
+
+.. _sven-project-zh:
+
+中文项目说明
+========================
+
+`bcit-ci/CodeIgniter <https://github.com/bcit-ci/CodeIgniter>`_ 的分支，为 PHP 网站开发提供常用库、接口和应用组织结构，减少重复基础代码。项目历史来源包含 EllisLab，工作归原团队及贡献者。
+
+**使用入口：** 按 `安装指南 <https://codeigniter.com/user_guide/installation/index.html>`_ 配置项目，进一步阅读 `用户文档 <https://codeigniter.com/docs>`_。
+
+**范围说明：** 当前分支包含开发中的代码；README 中的 PHP 版本说明属于此历史快照，不能作为现今生产环境的安全版本建议。稳定发行版请查阅上游下载页。
+
+.. _sven-project-en:
+
+English project overview
+========================
+
+A fork of `bcit-ci/CodeIgniter <https://github.com/bcit-ci/CodeIgniter>`_, providing libraries, interfaces and application structure for PHP web development. Its history includes EllisLab, with authorship belonging to the original team and contributors.
+
+**Getting started:** Follow the `installation guide <https://codeigniter.com/user_guide/installation/index.html>`_ and consult the `user documentation <https://codeigniter.com/docs>`_.
+
+**Scope:** This branch contains development code. Its PHP version notes describe a historical snapshot, not a security recommendation for a current production environment. Consult upstream downloads for stable releases.
+
+**本 Fork 的维护者 / Maintainer of this fork:** `SvenKunkka <https://github.com/SvenKunkka>`_ · `X / Twitter <https://x.com/Svenu1s5>`_
+
+**上游项目 / Upstream:** `bcit-ci/CodeIgniter <https://github.com/bcit-ci/CodeIgniter>`_
+
+原作者署名与许可证保留在原始说明中。 Original authorship and license notices are retained in the original documentation.
+
+.. SVENKUNKKA-PROJECT-INFO:END
